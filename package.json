@@ -1,0 +1,15 @@
+{
+  "name": "flyrank-first-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is my first assignment for FlyRankAI internship, where I have to built a small api using Express.js and Node.js.",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
