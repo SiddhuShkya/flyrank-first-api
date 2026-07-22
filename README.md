@@ -1,6 +1,6 @@
 # First API Endpoint
 
-This is my first assignment for FlyRankAI internship, where I have to built a small api using Express.js and Node.js.
+This is my first assignment for FlyRankAI internship, where I have to built a small api using Python & Flask.
 
 ## Endpoints
 
@@ -10,8 +10,9 @@ This is my first assignment for FlyRankAI internship, where I have to built a sm
 ## How to run
 
 ```bash
-npm install express
-node index.js
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ## How to test
